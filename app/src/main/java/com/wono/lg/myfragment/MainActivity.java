@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
                 //소스코드를 통해 fragment 추가 하는 방법
                 //버튼 클릭마다 만드니 만들지 않는다
                // fragment1 =new MainFragment();
-                //추가 해봅니다
+                //추가 해봅니다 test
+                // commit되었다고 하는데 왜 안되니
 
                 //트랜잭션을 추가해서 복잡하구먼
                 //fragmentlayout에 id추가하기
